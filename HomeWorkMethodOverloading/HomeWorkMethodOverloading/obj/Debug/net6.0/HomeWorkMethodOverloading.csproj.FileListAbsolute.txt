@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\bin\Debug\net6.0\HomeWorkMethodOverloading.exe
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\bin\Debug\net6.0\HomeWorkMethodOverloading.deps.json
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\bin\Debug\net6.0\HomeWorkMethodOverloading.runtimeconfig.json
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\bin\Debug\net6.0\HomeWorkMethodOverloading.dll
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\bin\Debug\net6.0\HomeWorkMethodOverloading.pdb
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.AssemblyInfo.cs
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.dll
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\refint\HomeWorkMethodOverloading.dll
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.pdb
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\HomeWorkMethodOverloading.genruntimeconfig.cache
+C:\Users\USER\source\repos\HomeWorkMethodOverloading\HomeWorkMethodOverloading\obj\Debug\net6.0\ref\HomeWorkMethodOverloading.dll
